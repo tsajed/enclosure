@@ -1,3 +1,4 @@
 # Ignore unneeded files
 
 Enclosed/Enclosure/*
+Enclosed/Library/metadata/*
